@@ -1,0 +1,29 @@
+#b2c {
+  width: 1200;
+  height: 900;
+  background-color: black;
+  border: 4px solid #f9d533;
+}
+#b2b {
+  width: 1200;
+  height: 900;
+  background-color: black;
+  border: 4px solid #f9d533;
+}
+#header {
+  width: 1200;
+  height: 96;
+  background-color: black;
+  border-bottom: 4px solid #f9d533;
+  color: #f9d533;
+}
+#menu {
+  width: 1200;
+  height: 96;
+  background-color: black;
+  border-top: 4px #f9d533;
+  border-bottom: 4px solid black;
+}
+#tabel {
+  border-color: #f9d533;
+}
